@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>La Isla</title>
+    <link>laisla.ml</link>
+    <description>Somos El Diario RSS</description>
+    <language>es-cl</language>
+    <copyright>20Media</copyright>
+    <item>
+      <title>Bienvenido a La Isla</title>
+      <pubDate>Thu, 6 Jan 2022 20:55:25 -0300</pubDate>
+      <author>soymartinfm@gmail.com</author>
+      <category>Extra</category>
+      <description><![CDATA[Hola!]]></description>
+    </item>
+  </channel>
+</rss>
